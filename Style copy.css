@@ -1,0 +1,41 @@
+body{background-color: #d2d0d9;}
+h1{font-family:Fantasy; 
+    font-size: 65px; 
+    font-color: #692910; 
+    text-align:center;} 
+
+p{font-color: #ff9589; 
+    font-size: 30; 
+    font-family: cursive;} 
+
+h2{font-family:Fantasy; 
+    font-size: 65px; text-align:center;}
+
+p2{font-color: #ff9589; font-size: 30px; font-color: #ff9589; font-family: cursive;}
+ul{font-family: math; font-size: 25;}
+.box{    
+    	background-color: yellow;
+   	    width: 900px;
+     	padding: 15px;
+    	position: relative;
+}
+.meme_top{
+	position: relative;
+	padding: 10px;
+	top: 80px;    
+    	font-size: 40px;
+    	color white;
+    	font-family: Fantasy;
+    	text-shadow: 2px 2px #000000;
+}
+.meme_bottom{
+	position: relative;
+	bottom: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family:Fantasy;
+	text-shadow: 2px 2px #000000;
+}
+
+a:hover{color: red}
